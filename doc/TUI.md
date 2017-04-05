@@ -7,10 +7,10 @@ Average mega hashes per second for the last 5 seconds
 Average mega hashes per second for the entire session
 
 ## A 
-Unknown
+The number of accepted shares
 
 ## R
-Unknown
+The number of rejected shares
 
 ## HW
 Hardware Errors. A couple per minute is fine, more than that is a sign that something is misconfigured/broken.
@@ -19,19 +19,19 @@ Hardware Errors. A couple per minute is fine, more than that is a sign that some
 (Work Utility)[https://github.com/genesismining/sgminer-gm/blob/master/doc/FAQ.md#what-is-work-utility-wu]
 
 ## ST
-Unknown
+Staged work items (ready to use)
 
 ## NB
-I think new blocks?
+New blocks detected on network
 
 ## LW 
-Late work?
+Locally generated work items
 
 ## GF
-Unknown
+Getwork fail occasions
 
 ## RF
-Unknown
+Remote fail occasions
 
 ## Block
 Current block being mined
