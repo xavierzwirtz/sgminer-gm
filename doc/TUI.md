@@ -37,7 +37,7 @@ Remote fail occasions
 Current block being mined
 
 ## Diff
-Unknown
+Block target (net diff)
 
 ## Started
 Start time
